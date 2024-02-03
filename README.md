@@ -34,3 +34,6 @@ Contributions are welcome! If you have any improvements or new features to sugge
 
 ## License
 This plugin is licensed under the MIT License. See the LICENSE file for more details.
+
+## Screenshot
+![Screenshot](https://i.imgur.com/bKQ96Tq.jpeg)
