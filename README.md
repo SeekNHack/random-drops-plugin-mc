@@ -32,8 +32,5 @@ For any issues or questions regarding this plugin, please open an issue in the G
 ## Contributing
 Contributions are welcome! If you have any improvements or new features to suggest, feel free to open a pull request.
 
-## License
-This plugin is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Screenshot
 ![Screenshot](https://i.imgur.com/bKQ96Tq.jpeg)
