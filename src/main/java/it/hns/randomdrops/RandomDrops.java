@@ -26,5 +26,6 @@ public final class RandomDrops extends JavaPlugin implements Listener {
         event.getBlock().setType(Material.AIR);
         // Set the drop to the random Material
         event.setDropItems(false);
+        new Metrics(this, 20944);
     }
 }
